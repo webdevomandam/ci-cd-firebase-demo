@@ -9,7 +9,7 @@ on:
 
 jobs:
   build:
-
+    name: integrate
     runs-on: ubuntu-latest
 
     strategy:
